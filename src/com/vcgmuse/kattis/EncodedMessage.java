@@ -1,9 +1,8 @@
 package com.vcgmuse.kattis;
 
 
-
-public class EncodedMessage{
-  public static void main(String[] args)  {
+public class EncodedMessage {
+  public static void main(String[] args) {
 
     PrintWriterClass io = new PrintWriterClass(System.in, System.out);
     int discard = io.getInt();
